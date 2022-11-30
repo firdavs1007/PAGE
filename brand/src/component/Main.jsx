@@ -3,10 +3,9 @@ import { GrCheckmark } from 'react-icons/gr';
 function Main() {
     return ( 
         <>
-        {/* <FaBeer /> */}
 
         <div className="lg:w-4/5 m-auto max-lg:w-[88%]">
-        <h1 className=" text-3xl font-bold text-center m-auto my-16 md:w-2/5">We excel in delivering  optimal solutions
+        <h1 className="text-3xl font-bold text-center m-auto my-16 md:w-2/5">We excel in delivering  optimal solutions
                 </h1>
             <div className="md:flex items-center justify-between">
                 <div className="w-4/5 max-md:m-auto">
